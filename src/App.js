@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1 className='title'>Rick & Morty</h1>
-        <img src={logo} className="img-home" alt="Rick & Morty" />
+        <img src={logo} className="img-home" alt="Rick and Morty" />
         <button onClick={reqApi} className="btn-search">Buscar personajes</button>
       </header>
     </div>
